@@ -36,7 +36,3 @@ def get_data(word):
         count += 1
 
     return mass
-
-
-# for key, val in get_data("bmw").items():
-#     print(key, val)
